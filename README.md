@@ -142,7 +142,7 @@ terraform destroy
 ![screenshot](screenshots/8-terraform-destroy.png)
 
 ## Alternative way
-Alternatively, you can also follow the jupyter notebooks below which consist of shell commands for each part. It can be run via VSCode or Jupyter Lab:
+Alternatively, you can also follow the jupyter notebooks listed below which consist of shell commands for each part. It can be run via VSCode or Jupyter Lab:
 
 **1-policy-definition-assignment.ipynb** (for Azure policy) 
 
